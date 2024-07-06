@@ -1,42 +1,42 @@
 # All_Topics_Interview_Question
 # Basic Questions
-What is HTML?
-What are HTML tags?
-What is the difference between HTML and XHTML?
-Explain the structure of an HTML document.
-What is the purpose of the <!DOCTYPE> declaration in HTML?
-Elements and Attributes
-What are HTML elements?
-What are HTML attributes?
-What is the difference between block-level and inline elements?
-How do you create a hyperlink in HTML?
-What is the use of the alt attribute in images?
+What is HTML? </br>
+What are HTML tags?</br>
+What is the difference between HTML and XHTML?</br>
+Explain the structure of an HTML document.</br>
+What is the purpose of the <!DOCTYPE> declaration in HTML?</br>
+Elements and Attributes</br>
+What are HTML elements?</br>
+What are HTML attributes?</br>
+What is the difference between block-level and inline elements</br
+How do you create a hyperlink in HTML?</br>
+What is the use of the alt attribute in images?</br>
 # Forms and Inputs
-How do you create a form in HTML?
-What are the different types of input elements in HTML?
-Explain the purpose of the <fieldset> and <legend> tags.
-What is the action attribute in a form tag used for?
-How can you make a text input field mandatory in a form?
-# Semantic HTML
-What is semantic HTML?
-Why is semantic HTML important?
-What are some examples of semantic HTML elements?
-How do you differentiate between <div> and <section>?
-What is the purpose of the <header>, <nav>, and <footer> tags?
-Multimedia and Graphics
-How do you embed an image in HTML?
-What is the <canvas> element used for?
-How do you embed a video in an HTML document?
-What is the <audio> element used for?
-How do you use the <svg> tag?
+How do you create a form in HTML?</br>
+What are the different types of input elements in HTML?</br>
+Explain the purpose of the <fieldset> and <legend> tags.</br>
+What is the action attribute in a form tag used for?</br>
+How can you make a text input field mandatory in a form?</br>
+# Semantic HTML</br>
+What is semantic HTML?</br>
+Why is semantic HTML important?</br>
+What are some examples of semantic HTML elements?</br>
+How do you differentiate between <div> and <section>?</br>
+What is the purpose of the <header>, <nav>, and <footer> tags?</br>
+Multimedia and Graphics</br>
+How do you embed an image in HTML?</br>
+What is the <canvas> element used for?</br>
+How do you embed a video in an HTML document</br
+What is the <audio> element used for?</br>
+How do you use the <svg> tag?</br>
 # Advanced Topics
-What is the purpose of the data-* attributes in HTML5?
-Explain the difference between localStorage and sessionStorage.
-What are web workers?
-What is the contenteditable attribute?
-How do you make an HTML element draggable?
+What is the purpose of the data-* attributes in HTML5?</br>
+Explain the difference between localStorage and sessionStorage</br
+What are web workers?</br>
+What is the contenteditable attribute?</br>
+How do you make an HTML element draggable?</br>
 # Best Practices
-How do you ensure your HTML is accessible?
+How do you ensure your HTML is accessible?</br>
 What are some common SEO best practices for HTML?
 How can you optimize HTML for performance?
 What is the purpose of meta tags in HTML?
